@@ -1,0 +1,3 @@
+﻿  mainPilhas.cpp
+C:\Users\phenr\source\repos\Exer_c++_prompComando\MeusExer\Estrutura_dados\ExerTarefas\ExerTarefas\mainPilhas.cpp(57): warning C4715: 'pop': nem todos os caminhos de controle retornam um valor
+  ExerTarefas.vcxproj -> C:\Users\phenr\source\repos\Exer_c++_prompComando\MeusExer\Estrutura_dados\ExerTarefas\Debug\ExerTarefas.exe
